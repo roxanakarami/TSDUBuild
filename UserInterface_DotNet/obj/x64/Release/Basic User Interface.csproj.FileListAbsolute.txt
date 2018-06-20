@@ -1,0 +1,18 @@
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\TestExec.exe
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.AdapterAPI.dll
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.API.dll
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.UI.AxControls.dll
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.UI.dll
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.UI.Support.dll
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Utility.dll
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\stdole.dll
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.AdapterAPI.xml
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.API.xml
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.UI.xml
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Interop.UI.Support.xml
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\bin\Release\NationalInstruments.TestStand.Utility.xml
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\obj\x64\Release\TestExec.MainForm.resources
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\obj\x64\Release\TestExec.Properties.Resources.resources
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\obj\x64\Release\Basic User Interface.csproj.GenerateResource.Cache
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\obj\x64\Release\TestExec.exe
+C:\PerforceRoot\TestStand\Users\tweaver\myTestProgram\UserInterface_DotNet\obj\x64\Release\Basic User Interface.csprojResolveAssemblyReference.cache
