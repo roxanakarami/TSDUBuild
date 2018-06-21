@@ -144,7 +144,7 @@ pipeline {
 								throw err //rethrow so we stop the pipeline
 								break
 						}
-					}*/
+					}
 					
 					//convert XML report to HTML and archive
 					bat "${MSXSL} \"${WORKSPACE}\\Image\\target\\Report.xml\" \"${TS}\\Components\\Models\\TestStandModels\\ATML\\StyleSheets\\TR5_Horizontal.xsl\" -o \"${WORKSPACE}\\Image\\target\\TestReport${BUILD_NUMBER}.html\""
@@ -154,12 +154,12 @@ pipeline {
 					bat "${MSXSL} \"${WORKSPACE}\\image\\target\\Report.xml\" \"${WORKSPACE}\\Stylesheets\\ATML_JUnit_Simple.xslt\" -o \"${WORKSPACE}\\testcases.xml\""
 					junit allowEmptyResults: true, testResults: 'testcases.xml'
 				}
-            }
+            }*/
         }
         /*stage('Publish') {
             steps {
                 echo 'Deploying....'
             }
-        }*/
-    }
+        }
+    }*/
 }
